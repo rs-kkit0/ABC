@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - AGC045A",
+            "request": "launch",
+            "mainClass": "app.AGC045A",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ABC169C",
             "request": "launch",
             "mainClass": "app.ABC169C",
