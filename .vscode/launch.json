@@ -2,6 +2,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ABC173B",
+            "request": "launch",
+            "mainClass": "app.ABC173B",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ABC173A",
+            "request": "launch",
+            "mainClass": "app.ABC173A",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ABC171CTest",
+            "request": "launch",
+            "mainClass": "app.ABC171CTest",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Character",
+            "request": "launch",
+            "mainClass": "app.Character",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ABC171D",
+            "request": "launch",
+            "mainClass": "app.ABC171D",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ABC171C",
+            "request": "launch",
+            "mainClass": "app.ABC171C",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ABC171B",
+            "request": "launch",
+            "mainClass": "app.ABC171B",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ABC171A",
+            "request": "launch",
+            "mainClass": "app.ABC171A",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - AGC045A",
             "request": "launch",
             "mainClass": "app.AGC045A",
