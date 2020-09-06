@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - ABC177C",
+            "request": "launch",
+            "mainClass": "app.ABC177C",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ABC177B",
+            "request": "launch",
+            "mainClass": "app.ABC177B",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ABC177A",
+            "request": "launch",
+            "mainClass": "app.ABC177A",
+            "projectName": "ABC132"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - ABC173B",
             "request": "launch",
             "mainClass": "app.ABC173B",

@@ -6,6 +6,7 @@ import java.math.RoundingMode;
 import java.util.Scanner;
 
 // 提出時にMainに変更する
+// public class Main {
 public class App {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(System.in);
